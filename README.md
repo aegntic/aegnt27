@@ -45,7 +45,33 @@ This repository showcases the complete design, architecture, and API specificati
 
 ## 🚀 Quick Start
 
-### Installation
+### Option 1: MCP Server (Use with Claude)
+
+**Recommended for Claude users - instant access to all tools!**
+
+```bash
+# Using Bun (recommended)
+cd mcp-server && bun install && bun run build
+
+# Using npm
+cd mcp-server && npm install && npm run build
+```
+
+Add to your Claude Desktop config:
+```json
+{
+  "mcpServers": {
+    "aegnt27": {
+      "command": "bun",
+      "args": ["/path/to/aegnt27/mcp-server/dist/index.js"]
+    }
+  }
+}
+```
+
+**Then ask Claude:** *"Use the achieve_mouse_authenticity tool to create a natural mouse path from (100, 100) to (500, 300)"*
+
+### Option 2: Rust Library
 
 Add aegnt-27 to your `Cargo.toml`:
 
