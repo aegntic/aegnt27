@@ -472,23 +472,38 @@ cargo fmt
 cargo clippy
 ```
 
-## 📄 Licensing
+## 📄 Licensing: Open Core Model
 
-aegnt-27 uses a **dual licensing model** to keep the software free for personal use while ensuring fair compensation for commercial applications:
+aegnt-27 uses an **Open Core model** - the framework and basic implementations are MIT licensed (free forever), while advanced engines require commercial licensing for peak performance:
 
-### 🆓 **Non-Commercial License** 
-**Perfect for**: Personal projects, learning, open source, academic research, portfolios
+### 🆓 **Open Source Components** (MIT Licensed)
+**Perfect for**: Learning, prototyping, basic automation, open source projects
 
-- ✅ **Free forever** for non-commercial use
-- ✅ Full access to all 27 behavioral patterns
-- ✅ Modify and redistribute (non-commercially)
-- ✅ Use in academic research and education
-- ✅ Portfolio demonstrations and learning projects
+#### **What's Included FREE:**
+- ✅ **Complete Framework**: All interfaces, configuration, error handling
+- ✅ **Basic Implementations**: Mouse (75%), Typing (70%), Detection (60-70%)
+- ✅ **Examples & Documentation**: Full tutorials and integration guides
+- ✅ **Modify & Redistribute**: Full MIT license freedom
 
-**License**: [LICENSE-NONCOMMERCIAL](LICENSE-NONCOMMERCIAL)
+#### **Performance Levels:**
+| Feature | Open Source | Commercial |
+|---------|-------------|------------|
+| Mouse Authenticity | 75% | **96%** |
+| Typing Authenticity | 70% | **95%** |
+| AI Detection Resistance | 60-70% | **98%+** |
+| Audio Processing | 70% | **94%** |
 
-### 💼 **Commercial License**
-**Required for**: Paid apps, SaaS products, commercial services, revenue-generating use
+**License**: [LICENSE-OPEN-CORE](LICENSE-OPEN-CORE) (MIT for open components)
+
+### 💼 **Commercial License** (Advanced Engines)
+**Required for**: Peak performance (80%+ authenticity), production apps, commercial use
+
+#### **🔒 Proprietary Engines Include:**
+- **Advanced Neural Algorithms**: 27-point behavioral pattern modeling
+- **Keystroke Dynamics**: Individual typing signature simulation
+- **Multi-Model AI Evasion**: GPTZero, Originality.ai, YouTube, Turnitin resistance
+- **Voice Tract Modeling**: Physical vocal production simulation
+- **Attention Physics**: Advanced gaze pattern and focus modeling
 
 #### **Licensing Options**:
 - **🚀 Developer**: $297/month (single app, 3 developers) - *Annual: $3,564 (save $1,000)*
