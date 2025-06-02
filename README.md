@@ -472,9 +472,55 @@ cargo fmt
 cargo clippy
 ```
 
-## 📄 License
+## 📄 Licensing
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+aegnt-27 uses a **dual licensing model** to keep the software free for personal use while ensuring fair compensation for commercial applications:
+
+### 🆓 **Non-Commercial License** 
+**Perfect for**: Personal projects, learning, open source, academic research, portfolios
+
+- ✅ **Free forever** for non-commercial use
+- ✅ Full access to all 27 behavioral patterns
+- ✅ Modify and redistribute (non-commercially)
+- ✅ Use in academic research and education
+- ✅ Portfolio demonstrations and learning projects
+
+**License**: [LICENSE-NONCOMMERCIAL](LICENSE-NONCOMMERCIAL)
+
+### 💼 **Commercial License**
+**Required for**: Paid apps, SaaS products, commercial services, revenue-generating use
+
+#### **Licensing Options**:
+- **🚀 Startup**: $99/month (up to $100K revenue, 5 developers)
+- **🏢 Professional**: $299/month (up to $1M revenue, 25 developers)  
+- **🌟 Enterprise**: $999/month (unlimited revenue & developers)
+- **📈 Revenue Share**: 2% of gross revenue (minimum $500/month)
+
+#### **Commercial Benefits**:
+- ✅ Full commercial usage rights
+- ✅ Priority support and SLA
+- ✅ Early access to new features
+- ✅ Custom integration assistance
+- ✅ Redistribution rights (Pro/Enterprise)
+
+### 📞 **Get Commercial License**
+**Email**: licensing@aegntic.com  
+**Details**: [LICENSE-COMMERCIAL](LICENSE-COMMERCIAL)
+
+### 🤔 **Which License Do I Need?**
+
+| Use Case | License Needed |
+|----------|----------------|
+| Personal projects | Non-Commercial ✅ |
+| Open source projects | Non-Commercial ✅ |
+| Academic research | Non-Commercial ✅ |
+| Portfolio demonstrations | Non-Commercial ✅ |
+| **Paid mobile apps** | **Commercial 💼** |
+| **SaaS products** | **Commercial 💼** |
+| **Consulting services** | **Commercial 💼** |
+| **Enterprise software** | **Commercial 💼** |
+
+**Not sure?** Email licensing@aegntic.com for guidance!
 
 ## 🙏 Acknowledgments
 
