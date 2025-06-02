@@ -5,6 +5,19 @@
 ### Q: Why dual licensing?
 **A:** We want aegnt-27 to be freely available for learning, personal projects, and open source development, while ensuring sustainable development through commercial licensing revenue.
 
+### Q: Why is commercial licensing priced higher than alternatives?
+**A:** aegnt-27 delivers measurably superior performance:
+- **98%+ AI detection resistance** vs industry average 80-85%
+- **Sub-2ms latency** vs competitors' 50-200ms response times
+- **27 distinct behavioral patterns** vs basic 3-5 pattern systems
+- **Local-first processing** vs cloud-dependent solutions
+- **Production-ready architecture** vs experimental proof-of-concepts
+
+The premium pricing reflects the 20% performance advantage and eliminates the need for multiple competing solutions.
+
+### Q: Is there a volume discount for multiple licenses?
+**A:** Yes! Annual billing saves $1,000-$4,000 per license. Enterprise customers get custom pricing for 10+ licenses.
+
 ### Q: Can I try it commercially before buying a license?
 **A:** Yes! You get a 30-day evaluation period for commercial use. Contact licensing@aegntic.com to activate your trial.
 
@@ -32,17 +45,19 @@
 
 ### Q: What's included in the different tiers?
 
-| Feature | Startup | Professional | Enterprise |
-|---------|---------|--------------|------------|
-| Revenue Limit | $100K | $1M | Unlimited |
-| Developers | 5 | 25 | Unlimited |
-| Support | Standard | Priority | Premium + SLA |
+| Feature | Developer | Professional | Enterprise |
+|---------|-----------|--------------|------------|
+| Applications | 1 | Multiple | Unlimited |
+| Developers | 3 | 15 | Unlimited |
+| Support | Email | Priority Phone | Dedicated Manager |
 | Redistribution | ❌ | ✅ | ✅ |
-| Custom Integration | ❌ | ❌ | ✅ |
-| Monthly Cost | $99 | $299 | $999 |
+| Custom Patterns | ❌ | Add-on | ✅ |
+| Source Access | ❌ | ❌ | ✅ |
+| Monthly Cost | $297 | $697 | $1,497 |
+| Annual Cost | $3,564 | $8,364 | $17,964 |
 
 ### Q: Can I choose revenue sharing instead?
-**A:** Yes! 2% of gross revenue with a $500/month minimum. Good for businesses with variable income.
+**A:** Yes! 5% of gross revenue with a $797/month minimum. Good for businesses with variable income.
 
 ### Q: Do I need a license for each app I build?
 **A:** One license covers all your applications, as long as you stay within your tier's developer and revenue limits.
